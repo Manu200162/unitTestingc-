@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPUnitTest.props" />
+</Project>
